@@ -7,6 +7,13 @@ RoPE Rotatory Positional Encodings
 MoE - Mixture of Experts -> consider having multiple experts, router routing request based on probability to the expert likely to solve problem.
 <img width="881" height="399" alt="image" src="https://github.com/user-attachments/assets/d5808302-3f2b-4975-8afe-c7206d9a629c" />
 
+_Mistral has 8 experts and 5.6B Parameters -> 8*5.6B parameter model to download
+It may use 2 experts at a time -> 2*5.6B parameters :_
+<img width="854" height="383" alt="image" src="https://github.com/user-attachments/assets/a1a1da01-431f-482c-824d-8da7b1ea9654" />
+
+
+
+
 
 
 
